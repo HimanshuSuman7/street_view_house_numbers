@@ -3,4 +3,4 @@
 
  Dataset : [Street View House Numbers](http://ufldl.stanford.edu/housenumbers/)
 
- Paper : [UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1511.06434.pdf)
+ Paper : [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf)
